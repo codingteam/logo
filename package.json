@@ -1,0 +1,21 @@
+{
+  "name": "codingteam-logo",
+  "version": "1.0.0",
+  "description": "The Logo of the Codingteam Foundation",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingteam/logo.git"
+  },
+  "keywords": [
+    "logo",
+    "resource",
+    "codingteam"
+  ],
+  "author": "codingteam",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/codingteam/logo/issues"
+  },
+  "homepage": "https://github.com/codingteam/logo#readme"
+}
